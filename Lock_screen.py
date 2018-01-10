@@ -2,7 +2,7 @@ import ctypes
 def lock_screen():
     try:
         if ctypes.windll.user32.LockWorkStation():
-            print("Locked screen")
+            print("Screen Locked")
         else:
             print("Screen not locked")
     except Exception as e:
