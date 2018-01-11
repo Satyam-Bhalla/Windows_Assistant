@@ -4,3 +4,5 @@ This repo contains a Machine Learning based virtual assistant like jarvis that h
 	Play Songs and Videos
 	Check current time
 	Check the weather
+	Take screenshots
+	Lock your computer screen
