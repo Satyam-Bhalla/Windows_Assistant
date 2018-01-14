@@ -9,7 +9,7 @@ def give_reply(reply):
     if len(voices)>=1:
         engine.setProperty('voice', voices[1])
     else:
-        engine.setProperty('voice', voices[1])    
+        engine.setProperty('voice', voices[0])    
     engine.say(reply)
     engine.runAndWait()
 reply = input()

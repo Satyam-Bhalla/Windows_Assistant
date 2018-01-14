@@ -7,3 +7,4 @@ This repo contains a Machine Learning based virtual assistant like jarvis that h
 	Take screenshots
 	Lock your computer screen
 	Change wallpaper
+	Text to speech added
